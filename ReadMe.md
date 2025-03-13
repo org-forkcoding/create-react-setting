@@ -11,6 +11,7 @@ create-react-setting <base-path>
 또는
 
 ```bash
+# bashrc나 zshrc에 등록후 사용
 cres <base-path>
 ```
 
